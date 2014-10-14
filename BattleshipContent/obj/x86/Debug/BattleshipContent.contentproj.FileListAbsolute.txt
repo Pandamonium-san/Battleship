@@ -1,0 +1,3 @@
+c:\users\spellabbet\documents\visual studio 2013\Projects\Battleship\Battleship\BattleshipContent\obj\x86\Debug\BattleshipContent.contentprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\Projects\Battleship\Battleship\BattleshipContent\obj\x86\Debug\BattleshipContent.contentprojResolveAssemblyReference.cache
+E:\Projects\Battleship\Battleship\BattleshipContent\obj\x86\Debug\BattleshipContent.contentprojResolveAssemblyReference.cache
